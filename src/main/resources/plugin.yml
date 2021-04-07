@@ -1,0 +1,11 @@
+name: Test
+main: ru.hyper.testplugin.Main
+version: 0.2
+authors: [pussykiller, Hyper_Bro]
+commands:
+  fly:
+    description: Включает полёт
+    usage: /<command>
+  info:
+    description: Показывает информацию о игроке
+    usage: /<command> [player]
